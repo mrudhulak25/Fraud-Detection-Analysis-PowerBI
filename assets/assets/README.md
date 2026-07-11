@@ -2,7 +2,7 @@
 
 ## Fraud Overview
 
-![Fraud Overview](assets/overview.png)
+![Fraud Overview](assets/Fraud%20Overview.png)
 
 ---
 
@@ -14,25 +14,25 @@
 
 ## Merchant Analysis
 
-![Merchant Analysis](assets/merchant_analysis.png)
+![Merchant Analysis](assets/Mercant%20Analysis.png)
 
 ---
 
 ## Transaction Trend Analysis
 
-![Transaction Trends](assets/transaction_trends.png)
+![Transaction Trends](assets/Transaction%20Analysis.png)
 
 ---
 
 ## Geographic Analysis
 
-![Geographic Analysis](assets/geographic_analysis.png)
+![Geographic Analysis](assets/Geographical%20Analysis.png)
 
 ---
 
 ## Error & Fraud Pattern Analysis
 
-![Error Analysis](assets/error_analysis.png)
+![Error Analysis](assets/Error%20Analysis.png)
 
 ---
 
