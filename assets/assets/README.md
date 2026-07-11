@@ -1,5 +1,6 @@
 # 📊 Dashboard Preview
-
+![Fraud Overview](assets/Fraud%20Overview.png)
+![Fraud Overview](assets/assets/Fraud%20Overview.png)
 ## Fraud Overview
 
 ![Fraud Overview](assets/Fraud%20Overview.png)
